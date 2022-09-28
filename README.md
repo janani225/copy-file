@@ -25,6 +25,9 @@ End the program
 
 ## PROGRAM:
 ```
+Developed by: V.S.JANANI
+RegisterNumber: 22003192
+
 with open('janani.txt','r') as f3:
     with open ('janu.txt','a') as f4:
         for line in f3:
