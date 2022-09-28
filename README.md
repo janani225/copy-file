@@ -33,8 +33,12 @@ with open('janani.txt','r') as f3:
 
 ### OUTPUT:
 ![Screenshot from 2022-09-26 14-36-39](https://user-images.githubusercontent.com/113497333/192240077-0b9ac470-69d6-4569-b5a0-25709e3f0473.png)
+
+Text file:
 ![Screenshot from 2022-09-26 14-39-25](https://user-images.githubusercontent.com/113497333/192240127-0aa9a7e9-6fd7-4bb7-bde2-ea4687469c63.png)
 
+Copy file:
+![Screenshot from 2022-09-26 14-39-25](https://user-images.githubusercontent.com/113497333/192676873-c1fbeb80-e646-41ba-aaab-766281b90854.png)
 
 
 
